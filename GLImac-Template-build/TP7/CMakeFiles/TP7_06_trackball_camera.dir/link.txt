@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/TP7_06_trackball_camera.dir/06_trackball_camera.cpp.o  -o TP7_06_trackball_camera -rdynamic ../glimac/libglimac.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread /usr/lib/x86_64-linux-gnu/libGL.so.1 -lGLEW 

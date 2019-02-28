@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/TP7_02_moon.dir/02_moon.cpp.o  -o TP7_02_moon -rdynamic ../glimac/libglimac.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread /usr/lib/x86_64-linux-gnu/libGL.so.1 -lGLEW 
